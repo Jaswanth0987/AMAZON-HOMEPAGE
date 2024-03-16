@@ -1,0 +1,230 @@
+.outlet{
+    width: 96vw;
+    height: 96vh;
+    border: 5px solid black;
+    padding: 0vh;
+    background-color: rgb(239, 236, 244);
+    flex-direction: row;
+}
+.one{
+    width: 96vw;
+    height: 6vh;
+    padding: 0vh;
+    background-color: #110527;
+    display: flex;
+}
+.two{
+    width: 96vw;
+    height: 8vh;
+    background-color: #110527;
+    display: flex;
+}
+.three{
+    width: 96vw;
+    height: 35vh;
+    background-color: rgb(167, 179, 206);
+}
+.four{
+    width: 96vw;
+    height: 47vh;
+    background-color:  rgb(218, 229, 234);
+    display: flex;
+}
+
+.f-o{
+    width: 20vw;
+    height: 46.5vh;
+    background-color: antiquewhite;
+    margin-left: 40px;
+    text-align: center;
+    justify-content: start;
+}
+.f-t{
+    width: 20vw;
+    height: 46.5vh;
+    background-color: antiquewhite;
+    margin-left: 40px;
+    text-align: center;
+}
+.f-th{
+    width: 22vw;
+    height: 46.5vh;
+    background-color: antiquewhite;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.shoes {
+    display: flex;
+}
+
+.f-f{
+    width: 20vw;
+    height: 15vh;
+    background-color: antiquewhite;
+    margin-left: 40px;
+}
+.f-fi{
+    width: 20vw;
+    height: 21vh;
+    background-color: rgb(70, 102, 154);
+    margin-left: 40px;
+    margin-top: 15px;
+}
+.f-o-o{
+    width: 15vw;
+    height: 30vh;
+    background-color: black;
+    margin-left: 32px;
+    margin-top: 20px;
+}
+.f-t-o{
+    width: 15vw;
+    height: 40vh;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+.f-th-o{
+    width: 8vw;
+    height: 12vh;
+    background-color: rgb(132, 129, 130);
+    margin-left: 26px;
+}
+.f-th-t{
+    width: 8vw;
+    height: 12vh;
+    background-color: rgb(132, 129, 130);
+    margin-left: 26px;
+    margin-top: 20;
+}
+.o-o{
+    width: 2.5vw;
+    height: 5vh;
+    background-color: antiquewhite;
+    padding-top: 2px;
+
+}
+.o-t{
+     width: 10vw;
+     height: 5vh;
+     background-color: #110527;
+}
+.o-th{
+    width: 40vw;
+    height: 5vh;
+    background-color: antiquewhite;
+    margin-left: 150px;
+    justify-content: right;
+}
+.o-f{
+    width: 20vw;
+    height: 8vh;
+    background-color:#110527;
+    text-align: center;
+    margin-left: 100px;
+    color: antiquewhite;
+    font-style: italic;
+}
+.t-o{
+    width: 9vw;
+    height: 8vh;
+    background-color: #110527;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-t{
+    width: 5vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 150px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-th{
+    width: 8vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-f{
+    width: 6vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-fi{
+    width: 4vw;
+    height: 6vh;
+    background-color: #110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-s{
+    width: 6vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-se{
+    width: 5vw;
+    height: 6vh;
+    background-color: #110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-e{
+    width: 4vw;
+    height: 6vh;
+    background-color: #110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-n{
+width: 3vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 100px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-te{
+width: 6vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-ele{
+width: 4vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-twl{
+width: 5vw;
+    height: 6vh;
+    background-color: #110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
+.t-thee{
+width: 5vw;
+    height: 6vh;
+    background-color:#110527;
+    margin-left: 10px;
+    text-align: center;
+    color: antiquewhite;
+}
